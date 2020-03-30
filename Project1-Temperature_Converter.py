@@ -2,7 +2,7 @@
 
 print("\n Hey there, welcome to the FC Temperature Calculator \n")
 
-print('Please enter your tempearture in Farenheit: \n')
+print('Please enter your temperature in Farenheit: \n')
 temperature = input()
 
 
