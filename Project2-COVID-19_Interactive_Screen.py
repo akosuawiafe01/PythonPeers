@@ -3,17 +3,25 @@
 print("Welcome to the COVID-19 Interactive Screen ")
 
 
-print("Enter your name: \n")
+print("Enter your name: ")
 name = input()
 
-print("Enter your age: \n")
+print('\n')
+
+print("Enter your age: ")
 age = input()
 
-print("Enter your place of residence: \n")
+print('\n')
+
+print("Enter your place of residence: ")
 residence = input()
 
-print("Enter your symptoms: \n")
+print('\n')
+
+print("Enter your symptoms: ")
 symptoms = input()
+
+print('\n')
 
 
 #Patient validates the information entered above
